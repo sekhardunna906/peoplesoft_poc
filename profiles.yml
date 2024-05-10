@@ -1,0 +1,12 @@
+peoplesoft_poc:
+  outputs:
+    dev:
+      dbname: postgres
+      host: 138.197.147.173
+      pass: 2024jAnuary
+      port: 5432
+      schema: Peoplesoft_Gold
+      threads: 1
+      type: postgres
+      user: postgres
+  target: dev
